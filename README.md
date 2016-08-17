@@ -1,0 +1,3 @@
+# GH-Foundations
+
+Initial repository for Grace Hopper Academy Foundations course to keep things in...
